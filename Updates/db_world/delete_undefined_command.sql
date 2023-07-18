@@ -1,1 +1,1 @@
-DELETE FROM `command` WHERE `name` = "spell_regulator";
+DELETE FROM `command` WHERE `name` LIKE "%spell_regulator%";
