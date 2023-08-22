@@ -1,0 +1,1 @@
+INSERT INTO `trinity_string` VALUES (12098, 'The player doesn\'t have this item (%u)', NULL, NULL, NULL, NULL, NULL, 'El jugador no tiene este objeto (%u)', 'El jugador no tiene este objeto (%u)', NULL);
