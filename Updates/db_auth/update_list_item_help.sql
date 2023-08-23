@@ -1,0 +1,3 @@
+UPDATE `command` 
+SET `help` = 'Syntax: .list item #playerName #item_id [#max_count] Output items with item id #item_id found in the player inventory, mails, auctions, and guild banks. Output item guids, item owner guid, owner account and owner name (guild name and guid in case guild bank). Will be output maximum #max_count items. If #max_count not provided use 10 as default value.' 
+WHERE `name`="list item";
